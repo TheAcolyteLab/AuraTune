@@ -1,6 +1,6 @@
 # 🎧 AuraTune: Music Therapy Effectiveness Predictor
 
-AuraTune is a machine learning-powered web app that predicts whether music is likely to be an effective therapeutic tool for a user, based on their listening habits and mental health background.
+AuraTune is a machine learning-powered web app that predicts whether music is likely to be an effective therapeutic tool for a user, based on their listening habits and limited mental health background.
 
 Built using:
 - Logistic Regression
