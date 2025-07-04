@@ -17,3 +17,4 @@ Built using:
 - Customizable prediction
 - work in progress
 
+This app is not a medical diagnostic tool. It provides predictions based on statistical correlations and should not replace professional advice.
